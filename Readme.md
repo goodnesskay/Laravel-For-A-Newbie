@@ -1,5 +1,5 @@
-## Easy Laravel For A Dummy
-> Are you new to Laravel? You can understand some key concepts in Laravel with the help of this repository. Read the explanations under each sub-heading and answer some questions below and work on the tasks given.
+## Easy Laravel For A Newbie
+> Are you new to Laravel? You can understand key concepts in Laravel with the help of this repository. Read the requiremets and how it works to get started. **Note**: You can only learn, when you try out the tasks and questions. 
 
 ## Requirements
 - Understanding of Git
